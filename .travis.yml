@@ -1,3 +1,12 @@
+language: node_js 
+node_js:
+    - "node" 
+    - "10"
+    - "8"
+
+cache: npm 
+install: npm 
+
 env:
   global:
     secure: Rjhss/+gRhZpuVc2n9yNgqzdBosufFRNDItYNbaWy8gYtrSue1Ei49Eeqb6kf4C3WeVceo6pc/nPzJ0ldhL8mNfCtMtuHqBdpb86JGnyK8H3uvWxHpZuSDj+wXEIYh+rwE29RD87/yOloiSxyrLkCL/OwHRmHoSGG9CDE0LGbRmPY5PckgnLIb4bCArXBqLXGtWK1DqxtcLuOjYjRuF27ttRvLKbRnV6EKsdfHkvBEHaLNiUOsYVPlXu0HpZ9IqY9fhLaJyZYqUpcEVYD70JGHgBSIbPocLQri2tyFck7sTz7GiHCaXIDOWF4RBrUUFvd3SW90MfC18G5B2GRuMkSX/IMXdahxz1Ye0EOeoanCk3mhN0pVCc7DjwtVMMK4zJh+l3DmupzEC5V+wZkv92sEQNQZNw01/gZXfNcpvOnLT4p+iWt7sSYjkCK2YmYHn15/NO3jj1j58wPULQSVICkeTn2kTRVvzwTYBh1BvimCMPdXopFMKaFVeFU782aIG5czv+OOj0GC1NLuG0DvuzOZZViutx0QMffDKRPsMEBxUqG/GuU+h6EDlAaxj5dymbLGE22kSMJcJcLrRWGq/yfsyBkJkjFvVvtDh3oS8mS2Ec2Fwp8cBvVTkg0Yi7XTri0KMEsJbVgZmyEHek4awp+NOpA645BrS5/WHMHbbUBnU=
