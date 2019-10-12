@@ -1,0 +1,28 @@
+{
+  "name": "isreactinert",
+  "version": "1.0.0",
+  "description": "My app to learn React",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "webpack": "^4.41.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbillings141/isreactinert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbillings141/isreactinert/issues"
+  },
+  "homepage": "https://github.com/tbillings141/isreactinert#readme"
+}
