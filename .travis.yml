@@ -4,8 +4,10 @@ node_js:
     - "10"
     - "8"
 
-cache: npm
-install: npm run build 
+cache:
+  npm: false
+install:
+    - npm install 
 
 env:
   global:
