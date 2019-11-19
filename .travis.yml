@@ -1,11 +1,11 @@
-language: node_js 
+language: node_js
 node_js:
-    - "node" 
+    - "node"
     - "10"
     - "8"
 
-cache: npm 
-install: npm 
+cache: npm
+install: npm run build 
 
 env:
   global:
